@@ -1,0 +1,2 @@
+# SIH_2023-AI-BASED-LEGAL-DOCUMENT-ASSISTANT
+Project done for SIH 2023 internal round
